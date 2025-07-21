@@ -80,7 +80,6 @@ $words2 = [
  'fine' => '!'
 ];
 
-// echo $words1[6][1];
 
 $parola_1 = "Nel";
 $parola_2 = $words1[6][3][0];
@@ -98,3 +97,6 @@ $space = " ";
 $results = $parola_1 . $space  . $parola_2 . $space . $parola_3 . $space . $parola_4 . $space . $parola_5 . $space . $parola_6 . $space . $parola_7 . $space . $parola_8 . $parola_9 . $space . $parola_10 . $space . $parola_11 . "." . "\n";
 
 echo $results;
+
+
+//carico esercizio completo
